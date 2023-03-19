@@ -6,7 +6,6 @@
   <a href="https://github.com/ViniciusGR797">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGR797&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGR797&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Vini-Computer">
 </div>
 
  ##
