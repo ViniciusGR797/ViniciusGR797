@@ -1,14 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
 
-### Hello! My name is Vinícius Gomes Ribeiro
-
- - 📚 Studying ***Software Engineering*** - ***UTFPR***
-- :seedling: Current im learning ***Golang***, ***Python***, ***Java*** and ***JavaScript***!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Gomes+Ribeiro;Studying+Software+Engineering+-+UTFPR;Current+im+learning+Golang,+Python+and+Java!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/ViniciusGR797">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGR797&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGR797&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Vini-Computer">
 </div>
 
  ##
@@ -31,6 +29,11 @@
  <a href = "https://www.linkedin.com/in/vinicius-gomes-ribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ##
-  
-  ![Snake animation](https://github.com/ViniciusGR797/ViniciusGR797/blob/output/github-contribution-grid-snake.svg)
  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusGR797&bg_color=0d1117&color=DCDCDC&line=DCDCDC&point=8B008B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ ##
+ 
+ ![Snake animation](https://github.com/ViniciusGR797/ViniciusGR797/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
